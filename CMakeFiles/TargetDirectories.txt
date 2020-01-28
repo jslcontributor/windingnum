@@ -1,0 +1,6 @@
+/Users/justin/Desktop/windingnum/homework/CMakeFiles/rebuild_cache.dir
+/Users/justin/Desktop/windingnum/homework/CMakeFiles/edit_cache.dir
+/Users/justin/Desktop/windingnum/homework/CMakeFiles/winding_lib.dir
+/Users/justin/Desktop/windingnum/homework/CMakeFiles/winding_number_test.dir
+/Users/justin/Desktop/windingnum/homework/CMakeFiles/test.dir
+/Users/justin/Desktop/windingnum/homework/CMakeFiles/winding_number.dir

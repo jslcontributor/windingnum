@@ -1,0 +1,19 @@
+Start testing: Jan 27 21:52 PST
+----------------------------------------------------------
+Unable to find executable: winding_number_test_NOT_BUILT
+1/1 Testing: winding_number_test_NOT_BUILT
+1/1 Test: winding_number_test_NOT_BUILT
+Command: ""
+Directory: /Users/justin/Desktop/windingnum/homework
+"winding_number_test_NOT_BUILT" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"winding_number_test_NOT_BUILT" end time: Jan 27 21:52 PST
+"winding_number_test_NOT_BUILT" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jan 27 21:52 PST

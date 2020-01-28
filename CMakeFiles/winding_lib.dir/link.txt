@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libwinding_lib.a  CMakeFiles/winding_lib.dir/src/poly_io.cpp.o CMakeFiles/winding_lib.dir/src/winding.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libwinding_lib.a
